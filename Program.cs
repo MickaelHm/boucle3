@@ -11,7 +11,7 @@ namespace boucle3
         static void Main(string[] args)
         {
             int counter;
-            for(counter = 0; counter < 10; counter++)
+            for(counter = 0; counter < 10; counter++)// variable, condition, Incrémentation
             {
                 Console.WriteLine("Bonjour, je suis un message généré à l'aide d'une boucle");
             }
